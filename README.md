@@ -9,7 +9,7 @@ It is structured to help you easily replicate this setup on your own Fedora syst
 
 * **`dconf/`**: GNOME and Extension Settings
   * `gnome-settings.dconf`: Complete export of all GNOME settings, keyboard shortcuts, window manager tweaks, and extension profiles.
-  * `openbar-settings.dconf`: Dedicated export of the OpenBar top bar extension settings.
+  * `Export`: Dedicated export of the OpenBar top bar extension settings.
 * **`gtk/`**:
   * `gtk-3.0/`: Custom GTK 3 stylesheets (`gtk.css`, `gtk-dark.css`) and settings.
   * `gtk-4.0/`: Custom GTK 4 stylesheets and settings.
