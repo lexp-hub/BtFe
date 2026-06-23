@@ -1,0 +1,32 @@
+add_newline = false
+format = """
+[](fg:#718cc6)\
+$os\
+$username\
+[](bg:#8aadf4 fg:#718cc6)\
+$directory\
+[](fg:#8aadf4) \
+$character"""
+
+[os]
+disabled = false
+style = "bg:#718cc6 fg:#24273a"
+format = "[$symbol]($style)"
+
+[os.symbols]
+Fedora = " "
+
+[username]
+show_always = true
+style_user = "bg:#718cc6 fg:#24273a"
+format = "[$user]($style)"
+
+[directory]
+style = "bg:#8aadf4 fg:#24273a"
+format = "[ $path ]($style)"
+truncation_length = 3
+fish_style_pwd_dir_length = 1
+
+[character]
+success_symbol = "[➜](bold #89acf4)"
+error_symbol = "[➜](bold #ed8796)"

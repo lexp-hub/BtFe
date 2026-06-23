@@ -1,0 +1,754 @@
+[Characters]
+recent-characters=['🙀', '💤', '🙍', '🦧', '🦭']
+
+[Disks]
+image-dir-uri='file:///home/lex/Documents'
+
+[Loupe]
+show-properties=false
+
+[Ptyxis]
+default-profile-uuid='f2c7471f7bc733e9c3a3541069bad111'
+profile-uuids=['f2c7471f7bc733e9c3a3541069bad111']
+window-size=(uint32 92, uint32 22)
+
+[Ptyxis/Profiles/f2c7471f7bc733e9c3a3541069bad111]
+palette='Catppuccin Macchiato'
+
+[Snapshot]
+capture-mode='video'
+is-maximized=false
+window-height=640
+window-width=800
+
+[TextEditor]
+last-save-directory='file:///home/lex/Scrivania'
+style-variant='dark'
+
+[baobab/ui]
+is-maximized=false
+window-size=(960, 600)
+
+[boxes]
+first-run=false
+view='icon-view'
+window-maximized=false
+window-position=[102, 102]
+window-size=[768, 600]
+
+[calendar]
+active-view='month'
+window-maximized=true
+window-size=(768, 600)
+
+[clocks]
+world-clocks=@aa{sv} []
+
+[clocks/state/window]
+maximized=false
+panel-id='timer'
+size=(870, 690)
+
+[control-center]
+last-panel='system'
+window-state=(767, 502, false)
+
+[desktop/a11y/applications]
+screen-reader-enabled=false
+
+[desktop/app-folders]
+folder-children=['System', 'Utilities', 'YaST', 'Pardus']
+
+[desktop/app-folders/folders/Pardus]
+categories=['X-Pardus-Apps']
+name='X-Pardus-Apps.directory'
+translate=true
+
+[desktop/app-folders/folders/System]
+apps=['org.gnome.baobab.desktop', 'org.gnome.DiskUtility.desktop', 'org.gnome.Logs.desktop', 'org.freedesktop.MalcontentControl.desktop', 'org.freedesktop.GnomeAbrt.desktop', 'org.gnome.SystemMonitor.desktop']
+name='X-GNOME-Shell-System.directory'
+translate=true
+
+[desktop/app-folders/folders/Utilities]
+apps=['org.gnome.Decibels.desktop', 'org.gnome.Connections.desktop', 'org.gnome.Papers.desktop', 'org.gnome.font-viewer.desktop', 'org.gnome.Loupe.desktop']
+name='X-GNOME-Shell-Utilities.directory'
+translate=true
+
+[desktop/app-folders/folders/YaST]
+categories=['X-SuSE-YaST']
+name='suse-yast.directory'
+translate=true
+
+[desktop/background]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///home/lex/.local/share/backgrounds/2026-04-09-18-16-44-a_multi-colored_building_with_many_windows.jpg'
+picture-uri-dark='file:///home/lex/.local/share/backgrounds/2026-04-09-18-16-44-a_multi-colored_building_with_many_windows.jpg'
+primary-color='#000000000000'
+secondary-color='#000000000000'
+
+[desktop/break-reminders/eyesight]
+play-sound=true
+
+[desktop/break-reminders/movement]
+duration-seconds=uint32 300
+interval-seconds=uint32 1800
+play-sound=true
+
+[desktop/file-sharing]
+require-password='never'
+
+[desktop/input-sources]
+current=uint32 0
+mru-sources=[('xkb', 'it')]
+show-all-sources=false
+sources=[('xkb', 'it'), ('xkb', 'gb')]
+xkb-options=['compose:rwin']
+
+[desktop/interface]
+accent-color='blue'
+color-scheme='prefer-dark'
+cursor-size=24
+cursor-theme='Bibata-Modern-Classic'
+enable-animations=true
+font-antialiasing='rgba'
+font-hinting='slight'
+font-name='Adwaita Sans Semi-Bold 11 @wght=600'
+font-rgba-order='rgb'
+gtk-theme='Catppuccin-B-MB-Dark-Macchiato'
+icon-theme='kora'
+show-battery-percentage=true
+text-scaling-factor=1.0
+toolbar-icons-size='large'
+toolbar-style='both-horiz'
+toolkit-accessibility=false
+
+[desktop/notifications]
+application-children=['org-gnome-software', 'org-freedesktop-problems-applet', 'org-gnome-boxes', 'brave-browser', 'org-freedesktop-gnomeabrt', 'org-gnome-tweaks', 'gnome-about-panel', 'gnome-power-panel', 'wine-winecfg', 'org-gnome-texteditor', 'org-gnome-diskutility', 'steam', 'org-gnome-settings', 'com-discordapp-discord', 'spotify-spotify', 'org-gnome-extensions', 'spotify', 'org-gnome-nautilus', 'com-vscodium-codium', 'windsurf', 'waydroid-com-android-vending', 'org-mozilla-firefox', 'wine-programs-affinity', 'com-desktop-ding', 'com-mattjakeman-extensionmanager', 'discord', 'com-mitchellh-ghostty', 'org-gnome-baobab']
+show-banners=true
+
+[desktop/notifications/application/brave-browser]
+application-id='brave-browser.desktop'
+
+[desktop/notifications/application/com-desktop-ding]
+application-id='com.desktop.ding.desktop'
+
+[desktop/notifications/application/com-discordapp-discord]
+application-id='com.discordapp.Discord.desktop'
+
+[desktop/notifications/application/com-mattjakeman-extensionmanager]
+application-id='com.mattjakeman.ExtensionManager.desktop'
+
+[desktop/notifications/application/com-mitchellh-ghostty]
+application-id='com.mitchellh.ghostty.desktop'
+
+[desktop/notifications/application/com-vscodium-codium]
+application-id='com.vscodium.codium.desktop'
+
+[desktop/notifications/application/discord]
+application-id='discord.desktop'
+
+[desktop/notifications/application/gnome-about-panel]
+application-id='gnome-about-panel.desktop'
+
+[desktop/notifications/application/gnome-power-panel]
+application-id='gnome-power-panel.desktop'
+
+[desktop/notifications/application/org-freedesktop-gnomeabrt]
+application-id='org.freedesktop.GnomeAbrt.desktop'
+
+[desktop/notifications/application/org-freedesktop-problems-applet]
+application-id='org.freedesktop.problems.applet.desktop'
+
+[desktop/notifications/application/org-gnome-baobab]
+application-id='org.gnome.baobab.desktop'
+
+[desktop/notifications/application/org-gnome-boxes]
+application-id='org.gnome.Boxes.desktop'
+
+[desktop/notifications/application/org-gnome-diskutility]
+application-id='org.gnome.DiskUtility.desktop'
+
+[desktop/notifications/application/org-gnome-extensions]
+application-id='org.gnome.Extensions.desktop'
+
+[desktop/notifications/application/org-gnome-nautilus]
+application-id='org.gnome.Nautilus.desktop'
+
+[desktop/notifications/application/org-gnome-settings]
+application-id='org.gnome.Settings.desktop'
+
+[desktop/notifications/application/org-gnome-software]
+application-id='org.gnome.Software.desktop'
+
+[desktop/notifications/application/org-gnome-texteditor]
+application-id='org.gnome.TextEditor.desktop'
+
+[desktop/notifications/application/org-gnome-tweaks]
+application-id='org.gnome.tweaks.desktop'
+
+[desktop/notifications/application/org-mozilla-firefox]
+application-id='org.mozilla.firefox.desktop'
+
+[desktop/notifications/application/spotify-spotify]
+application-id='spotify_spotify.desktop'
+
+[desktop/notifications/application/spotify]
+application-id='spotify.desktop'
+
+[desktop/notifications/application/steam]
+application-id='steam.desktop'
+
+[desktop/notifications/application/waydroid-com-android-vending]
+application-id='waydroid.com.android.vending.desktop'
+
+[desktop/notifications/application/windsurf]
+application-id='windsurf.desktop'
+
+[desktop/notifications/application/wine-programs-affinity]
+application-id='wine-Programs-Affinity.desktop'
+
+[desktop/notifications/application/wine-winecfg]
+application-id='wine-winecfg.desktop'
+
+[desktop/peripherals/keyboard]
+numlock-state=true
+
+[desktop/peripherals/mouse]
+accel-profile='flat'
+natural-scroll=false
+
+[desktop/peripherals/touchpad]
+click-method='areas'
+two-finger-scrolling-enabled=true
+
+[desktop/privacy]
+disable-camera=false
+report-technical-problems=true
+
+[desktop/screensaver]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///home/lex/.local/share/backgrounds/2026-04-09-18-16-44-a_multi-colored_building_with_many_windows.jpg'
+primary-color='#000000000000'
+secondary-color='#000000000000'
+
+[desktop/search-providers]
+sort-order=['org.gnome.Settings.desktop', 'org.gnome.Contacts.desktop', 'org.gnome.Nautilus.desktop']
+
+[desktop/sound]
+event-sounds=true
+input-feedback-sounds=false
+theme-name='ocean'
+
+[desktop/wm/preferences]
+auto-raise=false
+button-layout='appmenu:minimize,maximize,close'
+focus-mode='click'
+
+[epiphany]
+ask-for-default=false
+default-search-engine='Brave'
+homepage-url='https://search.brave.com/'
+incognito-search-engine='Brave'
+search-engine-providers=[{'url': <'https://www.bing.com/search?q=%s'>, 'bang': <'!b'>, 'name': <'Bing'>, 'suggestions_url': <'https://www.bing.com/osjson.aspx?query=%s'>}, {'url': <'https://duckduckgo.com/?q=%s&t=epiphany&kd=-1'>, 'opensearch_url': <'https://duckduckgo.com/opensearch.xml'>, 'bang': <'!ddg'>, 'name': <'DuckDuckGo'>, 'suggestions_url': <'https://duckduckgo.com/ac/?q=%s&type=list'>}, {'url': <'https://www.google.com/search?q=%s'>, 'opensearch_url': <'https://www.google.com/searchdomaincheck?format=opensearch'>, 'bang': <'!g'>, 'name': <'Google'>, 'suggestions_url': <'https://www.google.com/complete/search?q=%s&inputencoding=UTF-8&outputencoding=UTF-8&client=firefox'>}, {'url': <'https://search.brave.com/search?q=%s'>, 'bang': <'!nse'>, 'name': <'Brave'>}]
+
+[epiphany/state]
+is-maximized=false
+window-size=(1024, 768)
+
+[evolution-data-server]
+migrated=true
+
+[gnome-system-monitor]
+current-tab='processes'
+maximized=false
+show-dependencies=false
+show-whose-processes='user'
+window-height=720
+window-width=800
+
+[gnome-system-monitor/proctree]
+col-26-visible=false
+col-26-width=0
+
+[login-screen]
+enable-fingerprint-authentication=true
+enable-smartcard-authentication=false
+enable-switchable-authentication=false
+
+[mutter]
+overlay-key='Super'
+
+[nautilus/list-view]
+default-column-order=['name', 'size', 'type', 'owner', 'group', 'permissions', 'date_modified', 'date_accessed', 'date_created', 'recency', 'detailed_type']
+default-visible-columns=['name', 'size', 'date_modified']
+
+[nautilus/preferences]
+default-folder-viewer='icon-view'
+migrated-gtk-settings=true
+
+[nautilus/window-state]
+initial-size=(890, 607)
+initial-size-file-chooser=(890, 550)
+maximized=false
+
+[portal/filechooser/com.discordapp.Discord]
+last-folder-path='/home/lex/Scaricati'
+
+[portal/filechooser/com.obsproject.Studio]
+last-folder-path='/home/lex/Downloads'
+
+[portal/filechooser/com.vscodium.codium]
+last-folder-path='/home/lex/Desktop/NonSense'
+
+[portal/filechooser/discord]
+last-folder-path='/home/lex/Scaricati'
+
+[portal/filechooser/org.chromium.Chromium]
+last-folder-path='/home/lex/Desktop/neurosense-app'
+
+[portal/filechooser/org.gnome.Nautilus]
+last-folder-path='/home/lex/Documenti'
+
+[portal/filechooser/org.gnome.Settings]
+last-folder-path='/home/lex/walls/nature'
+
+[portal/filechooser/org.gnome.TextEditor]
+last-folder-path='/home/lex/Scrivania'
+
+[portal/filechooser/org.mozilla.firefox]
+last-folder-path='/home/lex/Scaricati'
+
+[portal/filechooser/org.vinegarhq.Sober]
+last-folder-path='/home/lex/Downloads'
+
+[portal/filechooser/virtualbox]
+last-folder-path='/home/lex/Downloads'
+
+[portal/filechooser/winegui]
+last-folder-path='/home/lex/Downloads'
+
+[settings-daemon/plugins/color]
+night-light-enabled=false
+night-light-last-coordinates=(41.741300000000003, 12.906700000000001)
+
+[settings-daemon/plugins/housekeeping]
+donation-reminder-last-shown=int64 1773954060824198
+
+[settings-daemon/plugins/sharing/gnome-user-share-webdav]
+enabled-connections=['47931a01-66f0-4c87-87f4-bb4e8db10788']
+
+[settings-daemon/plugins/sharing/rygel]
+enabled-connections=['47931a01-66f0-4c87-87f4-bb4e8db10788']
+
+[shell]
+app-picker-layout=[{'org.gnome.Contacts.desktop': <{'position': <0>}>, 'org.gnome.Weather.desktop': <{'position': <1>}>, 'org.gnome.clocks.desktop': <{'position': <2>}>, 'org.gnome.Maps.desktop': <{'position': <3>}>, 'org.fedoraproject.MediaWriter.desktop': <{'position': <4>}>, 'org.gnome.Showtime.desktop': <{'position': <5>}>, 'org.gnome.Snapshot.desktop': <{'position': <6>}>, 'org.gnome.Characters.desktop': <{'position': <7>}>, 'Utilities': <{'position': <8>}>, 'System': <{'position': <9>}>, 'libreoffice-calc.desktop': <{'position': <10>}>, 'org.gnome.Tour.desktop': <{'position': <11>}>, 'org.gnome.Yelp.desktop': <{'position': <12>}>, 'org.gnome.SimpleScan.desktop': <{'position': <13>}>, 'libreoffice-impress.desktop': <{'position': <14>}>, 'org.gnome.Calculator.desktop': <{'position': <15>}>, 'org.gnome.Ptyxis.desktop': <{'position': <16>}>, 'org.gnome.Calendar.desktop': <{'position': <17>}>, 'com.mattjakeman.ExtensionManager.desktop': <{'position': <18>}>, 'org.gnome.tweaks.desktop': <{'position': <19>}>, 'org.gnome.Boxes.desktop': <{'position': <20>}>, 'com.desktop.ding.desktop': <{'position': <21>}>, 'kitty.desktop': <{'position': <22>}>, 'com.daidouji.oneko.desktop': <{'position': <23>}>}, {'io.github.Foldex.AdwSteamGtk.desktop': <{'position': <0>}>, 'lpf.desktop': <{'position': <1>}>, 'lpf-spotify-client.desktop': <{'position': <2>}>, 'lpf-gui.desktop': <{'position': <3>}>, 'lpf-notify.desktop': <{'position': <4>}>, 'org.corectrl.CoreCtrl.desktop': <{'position': <5>}>, 'discord.desktop': <{'position': <6>}>, 'vmware-netcfg.desktop': <{'position': <7>}>, 'org.dosbox-staging.dosbox-staging.desktop': <{'position': <8>}>, 'org.fontforge.FontForge.desktop': <{'position': <9>}>, 'winetricks.desktop': <{'position': <10>}>, 'winegui.desktop': <{'position': <11>}>, 'brave-browser-beta.desktop': <{'position': <12>}>, 'antigravity_antigravity.desktop': <{'position': <13>}>}]
+disable-extension-version-validation=true
+disable-user-extensions=false
+disabled-extensions=['openrgb-sync-accent-color@evertonstz.github.io', 'arc-menu@linxgem33.com', 'lockscreen-extension@pratap.fastmail.fm', 'window-list@gnome-shell-extensions.gcampax.github.com', 'extend-left-box2@linuxdeepin.com', 'extension-list@tu.berry', 'appearance-keeper@melomane13', 'dash2dock-lite@icedman.github.com', 'dash-to-panel@jderose9.github.com', 'flypie@schneegans.github.com', 'azclock@azclock.gitlab.com', 'appindicatorsupport@rgcjonas.gmail.com', 'user-theme-x@tuberry.github.io', 'snowy@exposedcat', 'window-animations@rliang.github.com', 'wiggle@mechtifs', 'compiz-windows-effect@hermes83.github.com']
+enabled-extensions=['launch-new-instance@gnome-shell-extensions.gcampax.github.com', 'Vitals@CoreCoding.com', 'background-logo@fedorahosted.org', 'caffeine@patapon.info', 'arcmenu@arcmenu.com', 'apps-menu@gnome-shell-extensions.gcampax.github.com', 'logomenu@aryan_k', 'clipboard-history@alexsaveau.dev', 'dash-to-dock@micxgx.gmail.com', 'gtk4-ding@smedius.gitlab.com', 'kando-integration@kando-menu.github.io', 'color-picker@tuberry', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'blur-my-shell@aunetx', 'just-perfection-desktop@just-perfection', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'openbar@neuromorph', 'gsconnect@andyholmes.github.io']
+favorite-apps=['steam.desktop', 'virtualbox.desktop', 'antigravity.desktop', 'codium.desktop', 'vmware-workstation.desktop', 'com.discordapp.Discord.desktop', 'org.mozilla.firefox.desktop', 'brave-browser.desktop', 'spotify_spotify.desktop', 'com.mitchellh.ghostty.desktop', 'org.gnome.Nautilus.desktop', 'org.gnome.TextEditor.desktop', 'org.gnome.Software.desktop', 'libreoffice-writer.desktop', 'org.gnome.Settings.desktop', 'org.gnome.SystemMonitor.desktop']
+last-selected-power-profile='performance'
+welcome-dialog-last-shown-version='49.1'
+
+[shell/extensions/Logo-menu]
+menu-button-icon-image=1
+symbolic-icon=true
+use-custom-icon=false
+
+[shell/extensions/appearance-keeper]
+dark-cursor-theme='Bibata-Modern-Classic'
+dark-gtk-theme='Flat-Remix-GTK-Blue-Dark'
+dark-icon-theme='kora'
+dark-shell-theme='Catppuccin-B-MB-Dark-Macchiato'
+
+[shell/extensions/appindicator]
+icon-brightness=0.0
+icon-contrast=0.0
+icon-opacity=240
+icon-saturation=0.0
+icon-size=0
+
+[shell/extensions/arcmenu]
+arcmenu-hotkey=@as []
+arcmenu-hotkey-overlay-key-enabled=true
+hotkey-open-primary-monitor=false
+menu-button-appearance='None'
+multi-monitor=true
+override-menu-theme=false
+prefs-visible-page=0
+recently-installed-apps=['com.vscodium.codium.desktop', 'wine-Programs-PowerShell-PowerShell 7 (x64).desktop', 'virtualbox.desktop', 'io.github.thetumultuousunicornofdarkness.cpu-x.desktop', 'org.gnome.Extensions.desktop', 'app.drey.Elastic.desktop', 'steam.desktop', 'io.github.Foldex.AdwSteamGtk.desktop', 'com.mitchellh.ghostty.desktop', 'com.desktop.ding.desktop', 'com.spotify.Client.desktop', 'spot_spot.desktop', 'com.github.KRTirtho.Spotube.desktop', 'org.contourterminal.Contour.desktop', 'io.github.debasish_patra_1987.linuxthemestore.desktop', 'spotify_spotify.desktop', 'lpf-notify.desktop', 'lpf-gui.desktop', 'lpf-spotify-client.desktop', 'spotify.desktop', 'Deponia.desktop', 'so.libdb.dissent.desktop', 'org.gnome.Snapshot.desktop', 'Creepy Tale 2.desktop', 'menulibre.desktop', 'windsurf.desktop', 'waydroid.com.google.android.apps.messaging.desktop', 'waydroid.com.google.android.contacts.desktop', 'waydroid.com.android.vending.desktop', 'waydroid.com.aurora.adroid.desktop', 'waydroid.com.aurora.services.desktop', 'waydroid.io.github.huskydg.magisk.desktop', 'com.system76.CosmicScreenshot.desktop', 'com.system76.CosmicEdit.desktop', 'nheko.desktop', 'com.system76.CosmicFiles.desktop', 'org.kde.okular.desktop', 'com.system76.CosmicStore.desktop', 'com.system76.CosmicPlayer.desktop', 'org.gnome.Rhythmbox3.desktop', 'net.thunderbird.Thunderbird.desktop', 'org.kde.ark.desktop', 'com.system76.CosmicTerm.desktop', 'system-config-language.desktop', 'system-config-printer.desktop', 'setroubleshoot.desktop', 'Deponia The Complete Journey.desktop', '3D Escape RoomMystic Manor.desktop', 'HuntinBuddies Playtest.desktop', 'Rewilders The Lost Spring Playtest.desktop', 'OBS Studio.desktop', 'com.obsproject.Studio.desktop', 'winetricks.desktop', 'org.dosbox-staging.dosbox-staging.desktop', 'wine-Programs-Affinity.desktop', 'com.jeffser.Alpaca.desktop', 'com.github.tchx84.Flatseal.desktop', 'org.gnome.tweaks.desktop', 'com.mattjakeman.ExtensionManager.desktop', 'kitty.desktop', 'com.daidouji.oneko.desktop', 'codium.desktop', 'discord.desktop', 'lpf.desktop', 'org.corectrl.CoreCtrl.desktop', 'com.discordapp.Discord.desktop', 'vmware-player.desktop', 'vmware-netcfg.desktop', 'vmware-workstation.desktop', 'brave-browser-beta.desktop', 'winegui.desktop', 'org.fontforge.FontForge.desktop', 'brave-browser.desktop', 'antigravity_antigravity.desktop', 'antigravity.desktop']
+runner-hotkey=['<Alt>z']
+runner-hotkey-open-primary-monitor=false
+runner-hotkey-overlay-key-enabled=true
+search-entry-border-radius=(true, 25)
+update-notifier-project-version=73
+
+[shell/extensions/azclock]
+create-initial-widget=false
+prefs-visible-page=''
+update-notifier-project-version=18
+widgets=[{'0024a064-c4a5-42a5-9571-6a708df28b16': <{'enabled': <true>}>}]
+
+[shell/extensions/azclock/widget-data/0024a064-c4a5-42a5-9571-6a708df28b16]
+anchor-point='Center'
+background-color='rgb(35,39,57)'
+border-color='rgb(137,172,244)'
+border-width=4
+convert-old-location-done=true
+elements=[{'7836bd0e-a969-4edc-b1d2-7d72dab82d28': <{'enabled': <false>}>}, {'65a0ef0c-c88e-4f0f-99d1-89b94264e94c': <{'enabled': <true>}>}]
+location-data='{"monitorIndex":0,"relativeX":0.496,"relativeY":0.166}'
+name='Digital Clock Widget'
+show-background=false
+show-border=false
+spacing=8
+vertical=true
+
+[shell/extensions/azclock/widget-data/0024a064-c4a5-42a5-9571-6a708df28b16/element-data/65a0ef0c-c88e-4f0f-99d1-89b94264e94c]
+background-color='rgb(34,43,62)'
+border-color='rgb(137,172,244)'
+border-radius=20
+border-width=3
+date-format='%A'
+font-family-override=(true, 'Montserrat')
+font-size=100
+font-weight=1000
+foreground-color='rgb(255,255,255)'
+name='Date Label'
+shadow=(false, 'rgb(34,43,62)', 15, 15, 0, 0)
+show-background=false
+show-border=false
+
+[shell/extensions/azclock/widget-data/0024a064-c4a5-42a5-9571-6a708df28b16/element-data/7836bd0e-a969-4edc-b1d2-7d72dab82d28]
+border-width=0
+date-format='%H∶%M'
+font-family-override=(true, 'Archivo Black')
+font-size=92
+font-weight=1000
+foreground-color='rgb(137,172,244)'
+name='Time Label'
+shadow=(false, 'black', 2, 2, 0, 4)
+show-border=false
+
+[shell/extensions/blur-my-shell]
+rounded-blur-found=false
+settings-version=2
+
+[shell/extensions/blur-my-shell/coverflow-alt-tab]
+pipeline='pipeline_default'
+
+[shell/extensions/blur-my-shell/dash-to-dock]
+blur=false
+pipeline='pipeline_default_rounded'
+
+[shell/extensions/blur-my-shell/lockscreen]
+pipeline='pipeline_default'
+
+[shell/extensions/blur-my-shell/overview]
+pipeline='pipeline_default'
+
+[shell/extensions/blur-my-shell/panel]
+blur=false
+pipeline='pipeline_default'
+
+[shell/extensions/blur-my-shell/screenshot]
+pipeline='pipeline_default'
+
+[shell/extensions/caffeine]
+cli-toggle=true
+indicator-position-max=4
+user-enabled=true
+
+[shell/extensions/clipboard-history]
+private-mode=false
+toggle-menu=['<Alt>x']
+
+[shell/extensions/color-picker]
+color-history=[uint32 9088500, 16777215, 9088500, 11054004, 2369338, 9088500, 7441606, 7441606]
+preview-style=uint32 0
+
+[shell/extensions/com/github/hermes83/compiz-windows-effect]
+friction=1.5
+last-version=31
+mass=80.0
+preset='S'
+resize-effect=true
+speedup-factor-divider=6.0
+spring-k=1.0
+x-tiles=3.0
+y-tiles=3.0
+
+[shell/extensions/dash-to-dock]
+apply-custom-theme=false
+background-opacity=1.0
+custom-background-color=false
+custom-theme-shrink=false
+dash-max-icon-size=48
+dock-fixed=true
+dock-position='BOTTOM'
+extend-height=false
+height-fraction=0.90000000000000002
+icon-size-fixed=false
+middle-click-action='launch'
+multi-monitor=true
+preferred-monitor=-2
+preferred-monitor-by-connector='eDP-1'
+running-indicator-style='DEFAULT'
+shift-click-action='minimize'
+shift-middle-click-action='launch'
+show-mounts-only-mounted=false
+transparency-mode='FIXED'
+
+[shell/extensions/dash-to-panel]
+extension-version=73
+panel-anchors='{}'
+panel-element-positions='{}'
+panel-lengths='{}'
+panel-positions='{}'
+panel-sizes='{}'
+prefs-opened=false
+
+[shell/extensions/dash2dock-lite]
+border-radius=2.3225806451612905
+dock-location=0
+dock-padding=0.0
+edge-distance=1.0
+icon-size=0.017241379310344827
+panel-mode=true
+separator-thickness=1
+
+[shell/extensions/extension-list]
+ignore-menu=false
+
+[shell/extensions/flypie]
+child-color-mode-hover='auto'
+menu-configuration='[{"name":"Example Menu","icon":"flypie-symbolic-#46a","shortcut":"<Primary>space","centered":false,"id":0,"children":[{"name":"Sound","icon":"flypie-multimedia-symbolic-#c86","children":[{"name":"Mute","icon":"flypie-multimedia-mute-symbolic-#853","type":"Shortcut","data":"AudioMute","angle":-1},{"name":"Play / Pause","icon":"flypie-multimedia-playpause-symbolic-#853","type":"Shortcut","data":"AudioPlay","angle":-1},{"name":"Next Title","icon":"flypie-multimedia-next-symbolic-#853","type":"Shortcut","data":"AudioNext","angle":90},{"name":"Previous Title","icon":"flypie-multimedia-previous-symbolic-#853","type":"Shortcut","data":"AudioPrev","angle":270}],"type":"CustomMenu","data":{},"angle":-1},{"name":"Favorites","icon":"flypie-menu-favorites-symbolic-#da3","type":"Favorites","data":{},"angle":-1},{"name":"Next Workspace","icon":"flypie-go-right-symbolic-#6b5","type":"Shortcut","data":{"shortcut":"<Control><Alt>Right"},"angle":-1},{"name":"Maximize Window","icon":"flypie-window-maximize-symbolic-#b68","type":"Shortcut","data":"<Alt>F10","angle":-1},{"name":"Fly-Pie Settings","icon":"flypie-menu-system-symbolic-#3ab","type":"Command","data":"gnome-extensions prefs flypie@schneegans.github.com","angle":-1},{"name":"Close Window","icon":"flypie-window-close-symbolic-#a33","type":"Shortcut","data":"<Alt>F4","angle":-1},{"name":"Previous Workspace","icon":"flypie-go-left-symbolic-#6b5","type":"Shortcut","data":{"shortcut":"<Control><Alt>Left"},"angle":-1},{"name":"Running Apps","icon":"flypie-menu-running-apps-symbolic-#65a","type":"RunningApps","data":{"activeWorkspaceOnly":false,"appGrouping":true,"hoverPeeking":true,"nameRegex":""},"angle":-1}],"type":"CustomMenu","data":{}}]'
+show-kando-dialog=false
+stats-settings-opened=uint32 1
+
+[shell/extensions/gsconnect]
+devices=@as []
+missing-openssl=false
+name='fedora'
+
+[shell/extensions/gtk4-ding]
+icon-size='small'
+
+[shell/extensions/just-perfection]
+accent-color-icon=false
+accessibility-menu=true
+background-menu=true
+controls-manager-spacing-size=0
+dash=true
+dash-icon-size=0
+double-super-to-appgrid=true
+osd=true
+panel=true
+panel-in-overview=true
+ripple-box=true
+search=true
+show-apps-button=true
+startup-status=0
+support-notifier-type=0
+switcher-popup-delay=true
+theme=false
+window-demands-attention-focus=false
+window-picker-icon=true
+window-preview-caption=true
+window-preview-close-button=true
+workspace=true
+workspace-background-corner-size=0
+workspace-popup=true
+workspaces-in-app-grid=true
+
+[shell/extensions/openbar]
+accent-color=['0', '0.75', '0.75']
+auto-bgalpha=false
+autofg-bar=false
+autofg-menu=false
+autohg-bar=true
+autohg-menu=true
+autotheme-dark='Dark'
+autotheme-font=false
+autotheme-light='Light'
+balpha=1.0
+bartype='Floating'
+bcolor=['0.408', '0.584', '0.769']
+bg-change=true
+bgalpha=1.0
+bgcolor=['0.141', '0.153', '0.227']
+bgcolor-wmax=['0.118', '0.118', '0.118']
+bgcolor2=['0.263', '0.341', '0.302']
+bguri='file:///home/lex/.local/share/backgrounds/2026-04-09-18-16-44-a_multi-colored_building_with_many_windows.jpg'
+boxcolor=['0.141', '0.153', '0.227']
+bradius=14.0
+bwidth=2.2999999999999998
+color-scheme='prefer-dark'
+count1=483699
+count10=5713
+count11=4865
+count12=2996
+count2=352003
+count3=181187
+count4=82474
+count5=62801
+count6=34261
+count7=18628
+count8=11115
+count9=10197
+dark-bcolor=['0.408', '0.584', '0.769']
+dark-bgcolor=['0.141', '0.153', '0.227']
+dark-bgcolor-wmax=['0.118', '0.118', '0.118']
+dark-bgcolor2=['0.263', '0.341', '0.302']
+dark-bguri='file:///home/lex/.local/share/backgrounds/2026-04-09-18-16-44-a_multi-colored_building_with_many_windows.jpg'
+dark-boxcolor=['0.141', '0.153', '0.227']
+dark-dbgcolor=['0.141', '0.153', '0.227']
+dark-fgcolor=['0.659', '0.671', '0.706']
+dark-hcolor=['0.639', '0.706', '0.780']
+dark-hscd-color=['0.349', '0.561', '0.780']
+dark-iscolor=['0.141', '0.153', '0.227']
+dark-mbcolor=['0.639', '0.706', '0.780']
+dark-mbgcolor=['0.153', '0.184', '0.176']
+dark-mhcolor=['0.639', '0.706', '0.780']
+dark-mscolor=['0.349', '0.561', '0.780']
+dark-mshcolor=['0.000', '0.000', '0.000']
+dark-palette1=['74', '89', '86']
+dark-palette10=['179', '159', '153']
+dark-palette11=['43', '46', '34']
+dark-palette12=['186', '103', '76']
+dark-palette2=['226', '224', '225']
+dark-palette3=['104', '149', '196']
+dark-palette4=['103', '136', '120']
+dark-palette5=['18', '22', '24']
+dark-palette6=['163', '180', '199']
+dark-palette7=['68', '102', '150']
+dark-palette8=['218', '128', '95']
+dark-palette9=['134', '106', '94']
+dark-shcolor=['0.000', '0.000', '0.000']
+dark-smbgcolor=['0.263', '0.341', '0.302']
+dark-vw-color=['0.349', '0.561', '0.780']
+dark-winbcolor=['0.349', '0.561', '0.780']
+dashdock-style='Bar'
+dbgalpha=1.0
+dbgcolor=['0.141', '0.153', '0.227']
+dborder=true
+dbradius=20.0
+default-font='Sans 12'
+disize=46.0
+dshadow=false
+fgalpha=1.0
+fgcolor=['0.659', '0.671', '0.706']
+hcolor=['0.639', '0.706', '0.780']
+height=50.0
+hscd-color=['0.349', '0.561', '0.780']
+import-export=false
+isalpha=1.0
+iscolor=['0.141', '0.153', '0.227']
+light-bcolor=['0.855', '0.502', '0.373']
+light-bgcolor=['0.812', '0.847', '0.886']
+light-bgcolor-wmax=['0.922', '0.922', '0.922']
+light-bgcolor2=['0.761', '0.792', '0.784']
+light-bguri='file:///home/lex/.local/share/backgrounds/2026-04-09-18-16-44-a_multi-colored_building_with_many_windows.jpg'
+light-boxcolor=['0.812', '0.847', '0.886']
+light-hcolor=['0.071', '0.086', '0.094']
+light-hscd-color=['0.369', '0.612', '0.863']
+light-iscolor=['0.812', '0.847', '0.886']
+light-mbcolor=['0.071', '0.086', '0.094']
+light-mbgcolor=['0.922', '0.906', '0.914']
+light-mhcolor=['0.071', '0.086', '0.094']
+light-mscolor=['0.369', '0.612', '0.863']
+light-mshcolor=['0.000', '0.000', '0.000']
+light-palette1=['74', '89', '86']
+light-palette10=['179', '159', '153']
+light-palette11=['43', '46', '34']
+light-palette12=['186', '103', '76']
+light-palette2=['226', '224', '225']
+light-palette3=['104', '149', '196']
+light-palette4=['103', '136', '120']
+light-palette5=['18', '22', '24']
+light-palette6=['163', '180', '199']
+light-palette7=['68', '102', '150']
+light-palette8=['218', '128', '95']
+light-palette9=['134', '106', '94']
+light-shcolor=['0.000', '0.000', '0.000']
+light-smbgcolor=['0.761', '0.792', '0.784']
+light-vw-color=['0.369', '0.612', '0.863']
+light-winbcolor=['0.369', '0.612', '0.863']
+margin=8.9000000000000004
+mbcolor=['0.639', '0.706', '0.780']
+mbgcolor=['0.153', '0.184', '0.176']
+menustyle=false
+mfgalpha=1.0
+mfgcolor=['1.0', '1.0', '1.0']
+mhcolor=['0.639', '0.706', '0.780']
+monitor-height=1080
+monitor-width=1920
+mscolor=['0.349', '0.561', '0.780']
+mshcolor=['0.000', '0.000', '0.000']
+neon=false
+palette1=['74', '89', '86']
+palette10=['179', '159', '153']
+palette11=['43', '46', '34']
+palette12=['186', '103', '76']
+palette2=['226', '224', '225']
+palette3=['104', '149', '196']
+palette4=['103', '136', '120']
+palette5=['18', '22', '24']
+palette6=['163', '180', '199']
+palette7=['68', '102', '150']
+palette8=['218', '128', '95']
+palette9=['134', '106', '94']
+pause-reload=false
+reloadstyle=true
+set-notif-position=true
+set-overview=true
+shadow=false
+shcolor=['0.000', '0.000', '0.000']
+smbgcolor=['0.263', '0.341', '0.302']
+trigger-autotheme=true
+trigger-reload=true
+vw-color=['0.349', '0.561', '0.780']
+winbalpha=1.0
+winbcolor=['0.349', '0.561', '0.780']
+
+[shell/extensions/openrgb-sync-accent-color]
+ignored-devices-migrated=true
+
+[shell/extensions/snowy]
+flakes-limit=60
+max-flakes=6
+min-flakes=3
+
+[shell/extensions/user-theme]
+name='Catppuccin-B-MB-Dark-Macchiato'
+
+[shell/extensions/vitals]
+hot-sensors=['__temperature_avg__', '_processor_usage_', '_memory_usage_']
+icon-style=1
+use-higher-precision=false
+
+[shell/extensions/wiggle]
+cursor-path='/home/lex/Scaricati/5bb5fb6d1941286cc2192806609d3af8.webp'
+hide-cursor=true
+unmagnify-delay=44
+unmagnify-duration=75
+
+[shell/world-clocks]
+locations=@av []
+
+[software]
+check-timestamp=int64 1782215678
+first-run=false
+flatpak-purge-timestamp=int64 1782222806
+install-timestamp=int64 1780545789
+packagekit-historical-updates-timestamp=uint64 1775342265
+security-timestamp=int64 1781872259397291
+update-notification-timestamp=int64 1782215696
+upgrade-notification-timestamp=int64 1777401650
+
+[system/location]
+enabled=true
+
+[tweaks]
+show-extensions-notice=false
