@@ -20,9 +20,9 @@ It is structured to help you easily replicate this setup on your own Fedora syst
   * `share-icons/`: Icon sets from `~/.local/share/icons/`.
 * **`fonts/`**: User-specific fonts and Nerd Fonts (e.g., JetBrainsMono, CascadiaCode) from `~/.local/share/fonts/`.
 * **`shell/`**:
-  * Shell files including `bashrc`, `zshrc`, `fish` config, `starship.toml` configuration, and `ohmyposh` settings.
+  * Shell files including `bashrc`, `starship.toml` configuration.
 * **`other-configs/`**:
-  * Configurations for helper utilities like `fastfetch`, `Kvantum` (Qt theme integration), `qt5ct`, and `qt6ct`.
+  * Configurations for `fastfetch`.
 
 
 ## 📦 Installed GNOME Shell Extensions Included
