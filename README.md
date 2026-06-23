@@ -3,8 +3,7 @@
 This repository contains a curated collection of configuration files, themes, icons, fonts, shell settings, and GNOME preferences from my Fedora 44 GNOME desktop environment. 
 
 It is structured to help you easily replicate this setup on your own Fedora system.
-
-
+![Preview](Preview/Btrf.png)
 ## 📂 Structure & Contents
 
 * **`dconf/`**: GNOME and Extension Settings
